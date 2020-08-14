@@ -1,2 +1,4 @@
 # Red Wine Analysis
- Machine learing project
+ Machine learning project
+***
+Achieved 93% accuracy. Use pdf file for abridged report.
